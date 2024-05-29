@@ -1,4 +1,5 @@
 import sys
+print('hi')
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel,QPushButton,QWidget,QSlider
 from PyQt5.QtWidgets import QHBoxLayout,QVBoxLayout
 from PyQt5.QtWidgets import QFileDialog
